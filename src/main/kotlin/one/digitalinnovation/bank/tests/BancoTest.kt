@@ -1,4 +1,4 @@
-package one.digitalinnovation.bank.tests
+    package one.digitalinnovation.bank.tests
 
 import main.kotlin.one.digitalinnovation.bank.Bank
 
