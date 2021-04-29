@@ -11,7 +11,8 @@ fun main() {
 		"Joao",
 		"da Silva",
 		"CPF1",
-		BigDecimal.valueOf(20000)
+		BigDecimal.valueOf(20000),
+		"pass123"
 						 )
 	val coordinator = Coordinator(
 		"Jose",
